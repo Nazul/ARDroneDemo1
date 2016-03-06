@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<ardrone>
+  <devices>
+    <device id="74301981" name="Logitech Gamepad F310" default="yes">
+      <controls>
+        <control name="takeoff" value="7" type="3"/>
+        <control name="emergency" value="6" type="3"/>
+        <control name="pitch_front" value="3" type="3"/>
+        <control name="pitch_back" value="0" type="3"/>
+        <control name="roll_left" value="2" type="3"/>
+        <control name="roll_right" value="1" type="3"/>
+        <control name="yaw_left" value="4" type="3"/>
+        <control name="yaw_right" value="5" type="3"/>
+        <control name="speed_up" value="10" type="3"/>
+        <control name="speed_down" value="9" type="3"/>
+      </controls>
+    </device>
+  </devices>
+</ardrone>
